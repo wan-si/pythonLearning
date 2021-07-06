@@ -1,0 +1,10 @@
+IP	URL
+1.1.1.1	www.baidu.com
+1.1.1.2	www.baidu.com
+1.1.1.3	www.baidu.com
+1.1.1.1	www.baidu.com
+1.1.1.2	www.baidu.com
+1.1.1.1	www.baidu.com1
+1.1.1.2	www.baidu.com1
+1.1.1.1	www.baidu.com2
+1.1.1.2	www.baidu.com2

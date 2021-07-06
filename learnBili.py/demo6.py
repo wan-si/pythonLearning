@@ -1,0 +1,5 @@
+src_file = open('log.png','rb')
+target_file = open('copylogo.png','wb')
+target_file.write(src_file.read())
+target_file.close()
+src_file.close()
